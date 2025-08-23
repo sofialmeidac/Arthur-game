@@ -5,7 +5,7 @@
 
 }
 .game-board {
-    width: 100%;
+    width: 725px;
     height: 500px;
     border-bottom: 10px solid #071401;
     margin: 0 auto ;
@@ -89,4 +89,5 @@
     to{
         right: 100%;
     }
+
 }
