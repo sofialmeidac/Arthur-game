@@ -16,9 +16,9 @@ Jogo de habilidade e reflexos onde o objetivo é fazer um personagem pular sobre
 
 ## Tecnologias Utilizadas
 
-HTML: Estruturação do jogo e elementos da página
-CSS: Estilização visual, animações e design
-JavaScript: Lógica do jogo e interatividade
+-HTML: Estruturação do jogo e elementos da página
+-CSS: Estilização visual, animações e design
+-JavaScript: Lógica do jogo e interatividade
 
 ## Contribuidores
 Sofia Costa 
